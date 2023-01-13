@@ -1,7 +1,8 @@
 Nibras is a virtual library platform that offers the IIUM University community the magnificent opportunity to lend & borrow books.
 
 
+![1](https://user-images.githubusercontent.com/87470122/212383030-22eb9414-931d-4b34-b7d0-41f3366dcdf7.png)
 
 
+![2](https://user-images.githubusercontent.com/87470122/212383054-25e480d1-866a-4fa4-896c-8d475901a9ce.png)
 
-https://user-images.githubusercontent.com/86645986/211723666-3bfef2be-23f3-49ac-99ff-c0fc1b044f92.png
